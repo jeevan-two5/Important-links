@@ -18,3 +18,4 @@ class Solution {
     }
 };
 ```
+gfg links of potd : https://github.com/Hunterdii/GeeksforGeeks-POTD.git
