@@ -21,3 +21,4 @@ class Solution {
 gfg links of potd : https://github.com/Hunterdii/GeeksforGeeks-POTD.git
 
 dsa links :https://github.com/MAZHARMIK/Interview_DS_Algo.git
+striver a2z links : https://github.com/Codensity30/Strivers-A2Z-DSA-Sheet.git
